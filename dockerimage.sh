@@ -1,7 +1,7 @@
 #!/bin/bash
 # This script help to create docker image by answering serie o questions to collect the instructions and dependencies
 # Feel free to send me any suggestion or contribution.
-# Email:sahiavn89@gmail.com
+# Email:sahaivan89@gmail.com
 echo "Hi ${USER}, the purpose of this script is to create a Dockerfile"
 sleep 3
 echo "to build a docker image from the Dockerfile"
